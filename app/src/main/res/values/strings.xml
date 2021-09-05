@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BookCatalogue</string>
+    <string name="gutenberg_project">Gutenberg &lt;br /&gt; Project</string>
+    <string name="gutenberg">Gutenberg</string>
+    <string name="project">Project</string>
+    <string name="header_2">A social catalouge website that allows you to freely search its database of books, annotations and reviews.</string>
+    <string name="GENRE">GENRE</string>
+    <string name="search">Search</string>
+    <string name="book_name">BOOK NAME</string>
+    <string name="author">author</string>
+    <string name="no_available_format_found">No available format found.</string>
+</resources>
